@@ -5,7 +5,7 @@ import { PairCreated } from "../../generated/Factory/Factory";
 import { fetchTokenDecimals, fetchTokenName, fetchTokenSymbol } from "./utils/bep20";
 
 // Constants
-let FACTORY_ADDRESS = "0xca143ce32fe78f1f7019d7d551a6402fc5350c73";
+let FACTORY_ADDRESS = "0x250570a200945860b3e76aB9f1Fa325f55CBE10C";
 
 // BigNumber-like references
 let ZERO_BI = BigInt.fromI32(0);
